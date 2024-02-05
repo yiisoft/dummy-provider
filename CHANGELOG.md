@@ -1,6 +1,6 @@
 # Yii Dummy Provider Change Log
 
-## 1.0.1 under development
+## 1.0.1 February 05, 2024
 
 - Enh #6: Add "testing" keyword to composer.json for suggest package to `require-dev` section (@vjik)
 
