@@ -5,7 +5,8 @@
     "keywords": [
         "dummy",
         "provider",
-        "provides"
+        "provides",
+        "testing"
     ],
     "homepage": "https://www.yiiframework.com/",
     "license": "BSD-3-Clause",
