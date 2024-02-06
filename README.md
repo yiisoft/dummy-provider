@@ -20,7 +20,7 @@ Dummy implementation provider is used for testing packages requiring implementat
 The package could be installed with composer:
 
 ```shell
-composer require yiisoft/dummy-provider --prefer-dist
+composer require yiisoft/dummy-provider --dev
 ```
 
 ## License
