@@ -2,7 +2,7 @@
 
 ## 1.0.2 under development
 
-- no changes in this release.
+- New #13: Provide `yiisoft/db-implementation` virtual package (@vjik)
 
 ## 1.0.1 February 05, 2024
 
