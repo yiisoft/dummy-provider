@@ -1,6 +1,6 @@
 # Yii Dummy Provider Change Log
 
-## 1.0.2 under development
+## 1.1.0 July 07, 2025
 
 - New #13: Provide `yiisoft/db-implementation` virtual package (@vjik)
 
