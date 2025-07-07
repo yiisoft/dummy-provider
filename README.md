@@ -11,6 +11,7 @@
 
 The package serves as dummy provider of Yii virtual packages:
 
+- `yiisoft/db-implementation`
 - `yiisoft/router-implementation`
 
 Dummy implementation provider is used for testing packages requiring implementations.

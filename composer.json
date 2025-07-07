@@ -29,6 +29,7 @@
         }
     ],
     "provide": {
+        "yiisoft/db-implementation": "1.0.0",
         "yiisoft/router-implementation": "1.0.0"
     },
     "extra": {
